@@ -1,0 +1,5 @@
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\PythagoreanNumbers\bin\Debug\PythagoreanNumbers.exe.config
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\PythagoreanNumbers\bin\Debug\PythagoreanNumbers.exe
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\PythagoreanNumbers\bin\Debug\PythagoreanNumbers.pdb
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\PythagoreanNumbers\obj\Debug\PythagoreanNumbers.exe
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\PythagoreanNumbers\obj\Debug\PythagoreanNumbers.pdb

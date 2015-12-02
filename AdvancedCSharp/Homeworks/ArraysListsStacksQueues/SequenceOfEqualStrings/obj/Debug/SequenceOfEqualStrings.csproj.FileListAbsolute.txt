@@ -1,0 +1,5 @@
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\SequenceOfEqualStrings\bin\Debug\SequenceOfEqualStrings.exe.config
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\SequenceOfEqualStrings\bin\Debug\SequenceOfEqualStrings.exe
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\SequenceOfEqualStrings\bin\Debug\SequenceOfEqualStrings.pdb
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\SequenceOfEqualStrings\obj\Debug\SequenceOfEqualStrings.exe
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\SequenceOfEqualStrings\obj\Debug\SequenceOfEqualStrings.pdb

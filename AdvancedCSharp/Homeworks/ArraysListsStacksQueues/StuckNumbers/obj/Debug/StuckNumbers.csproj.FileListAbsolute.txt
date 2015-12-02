@@ -1,0 +1,5 @@
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\StuckNumbers\bin\Debug\StuckNumbers.exe.config
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\StuckNumbers\bin\Debug\StuckNumbers.exe
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\StuckNumbers\bin\Debug\StuckNumbers.pdb
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\StuckNumbers\obj\Debug\StuckNumbers.exe
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\StuckNumbers\obj\Debug\StuckNumbers.pdb

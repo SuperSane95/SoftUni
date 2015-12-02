@@ -1,0 +1,2 @@
+c:\users\iwano\documents\visual studio 2015\Projects\ArraysListsStacksQueues\ArraysListsStacksQueues\bin\Debug\ArraysListsStacksQueues.exe.config
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\ArraysListsStacksQueues\bin\Debug\ArraysListsStacksQueues.exe.config

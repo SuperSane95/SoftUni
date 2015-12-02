@@ -1,0 +1,6 @@
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\SortArrayOfNumbers\bin\Debug\SortArrayOfNumbers.exe.config
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\SortArrayOfNumbers\bin\Debug\SortArrayOfNumbers.exe
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\SortArrayOfNumbers\bin\Debug\SortArrayOfNumbers.pdb
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\SortArrayOfNumbers\obj\Debug\SortArrayOfNumbers.csprojResolveAssemblyReference.cache
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\SortArrayOfNumbers\obj\Debug\SortArrayOfNumbers.exe
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\SortArrayOfNumbers\obj\Debug\SortArrayOfNumbers.pdb

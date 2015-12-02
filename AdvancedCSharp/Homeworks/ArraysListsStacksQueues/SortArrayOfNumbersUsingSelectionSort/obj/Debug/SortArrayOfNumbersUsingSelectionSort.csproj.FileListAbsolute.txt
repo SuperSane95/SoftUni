@@ -1,0 +1,6 @@
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\SortArrayOfNumbersUsingSelectionSort\bin\Debug\SortArrayOfNumbersUsingSelectionSort.exe.config
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\SortArrayOfNumbersUsingSelectionSort\bin\Debug\SortArrayOfNumbersUsingSelectionSort.exe
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\SortArrayOfNumbersUsingSelectionSort\bin\Debug\SortArrayOfNumbersUsingSelectionSort.pdb
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\SortArrayOfNumbersUsingSelectionSort\obj\Debug\SortArrayOfNumbersUsingSelectionSort.exe
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\SortArrayOfNumbersUsingSelectionSort\obj\Debug\SortArrayOfNumbersUsingSelectionSort.pdb
+D:\Development\SoftUni\Fundamentals\Advanced C#\Homework\ArraysListsStacksQueues\SortArrayOfNumbersUsingSelectionSort\obj\Debug\SortArrayOfNumbersUsingSelectionSort.csprojResolveAssemblyReference.cache
