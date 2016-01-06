@@ -1,16 +1,17 @@
 import turtle
 
-chess = turtle.Turtle()
-chess.penup()
-chess.backward(300)
-chess.left(90)
-chess.forward(50)
-chess.forward(200)
-chess.right(90)
-chess.pendown()
+
+def move_to_beginning(chess):
+    chess.penup()
+    chess.backward(300)
+    chess.left(90)
+    chess.forward(50)
+    chess.forward(200)
+    chess.right(90)
+    chess.pendown()
 
 
-def drawBlackSquare():
+def draw_black_square(chess, size):
     chess.begin_fill()
     for i in range(4):
         chess.forward(size)
@@ -18,37 +19,37 @@ def drawBlackSquare():
     chess.end_fill()
 
 
-def drawWhiteSquare():
+def draw_white_square(chess, size):
     for i in range(4):
         chess.forward(size)
         chess.right(90)
 
 
-def drawRowBlack():
+def draw_row_black(chess, size):
     black = True
     for i in range(8):
         if black:
-            drawBlackSquare()
+            draw_black_square(chess, size)
             black = False
         else:
-            drawWhiteSquare()
+            draw_white_square(chess, size)
             black = True
         chess.forward(size)
 
 
-def drawRowWhite():
+def draw_row_white(chess, size):
     black = False
     for i in range(8):
         if black:
-            drawBlackSquare()
+            draw_black_square(chess, size)
             black = False
         else:
-            drawWhiteSquare()
+            draw_white_square(chess, size)
             black = True
         chess.forward(size)
 
 
-def goBack():
+def go_back(chess, size):
     back = size * 8
     chess.right(180)
     chess.forward(back)
@@ -58,19 +59,25 @@ def goBack():
     chess.right(90)
 
 
-size = int(input("Enter size: "))
-startBlack = True
-chess.speed('fast')
-for i in range(8):
-    if startBlack:
-        drawRowBlack()
-        goBack()
-        startBlack = False
-    else:
-        drawRowWhite()
-        goBack()
-        startBlack = True
+def main():
+    size = int(input("Enter size: "))
+    chess = turtle.Turtle()
+    start_black = True
+    chess.speed('fast')
+    move_to_beginning(chess)
 
-input()
+    for i in range(8):
+        if start_black:
+            draw_row_black(chess, size)
+            go_back(chess, size)
+            start_black = False
+        else:
+            draw_row_white(chess, size)
+            go_back(chess, size)
+            start_black = True
 
-# handmade
+    turtle.exitonclick()
+
+if __name__ == '__main__':
+    main()
+
