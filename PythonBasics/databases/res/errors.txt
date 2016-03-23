@@ -1,0 +1,3 @@
+2016-02-03 21:15:23.001072: Unable to import Sale: {'city': 'Leipzig', 'item_id': '16589аа', 'country': 'DE', 'price': Decimal('404.79'), 'sale_timestamp': datetime.datetime(2015, 12, 14, 13, 15, 46, tzinfo=datetime.timezone.utc)} because of invalid item id.
+2016-02-03 21:15:40.460409: Unable to import Sale: {'country': 'DE', 'sale_timestamp': datetime.datetime(2015, 12, 14, 13, 15, 46, tzinfo=datetime.timezone.utc), 'item_id': '16589аа', 'city': 'Leipzig', 'price': Decimal('404.79')} because of invalid item id.
+2016-02-03 21:16:15.409547: Unable to import Sale: {'price': Decimal('404.79'), 'country': 'DE', 'sale_timestamp': datetime.datetime(2015, 12, 14, 13, 15, 46, tzinfo=datetime.timezone.utc), 'item_id': '16589аа', 'city': 'Leipzig'} because of invalid item id.
